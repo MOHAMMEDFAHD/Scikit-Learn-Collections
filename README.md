@@ -1,4 +1,4 @@
-````markdown
+
 # 🤖 Scikit-Learn Collections
 A curated collection of **scikit-learn** examples, utilities, and best practices — all in one place. Whether you're a beginner exploring machine learning or an advanced user looking for reusable snippets, this repo has you covered.  
 

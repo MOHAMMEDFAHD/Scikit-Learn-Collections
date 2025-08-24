@@ -170,9 +170,3 @@ Open an [issue](https://github.com/your-username/scikitelearn-collections/issues
 > **Let your pipelines be elegant, reusable, and powerful. — `scikitelearn-collections`**
 
 ```
-
----
-
-✅ **Ready to go as a `README.md`**  
-Let me know if you want this styled with Bootstrap, integrated into a `GitHub Pages` site, or extended with Sphinx/MkDocs docs generator.
-```

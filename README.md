@@ -101,8 +101,3 @@ This project is licensed under the [MIT License](LICENSE).
 ⭐ If you find this repo useful, consider giving it a star!
 
 ```
-
-⚡ This is a **single markdown cell**, nothing split out — totally copy-paste ready.  
-
-Do you want me to also add **GitHub badges** (like Python version, scikit-learn, license, stars) at the top for extra visual appeal? 🚀
-```

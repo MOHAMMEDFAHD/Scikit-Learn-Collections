@@ -9,7 +9,7 @@
 [![Issues](https://img.shields.io/github/issues/your-username/scikitelearn-collections)](https://github.com/your-username/scikitelearn-collections/issues)
 
 > **Elegant, production-ready extensions for Scikit-learn pipelines**  
-> Save time, build faster, scale better 🚀
+> Save time, build faster, scale better 
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="120" alt="scikit-learn logo" />
@@ -17,28 +17,28 @@
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 `scikitelearn-collections` is a curated collection of robust utilities, transformers, wrappers, and experiment tools built on top of the [Scikit-learn](https://scikit-learn.org/) ecosystem. It helps you streamline model development, experiment tracking, and pipeline customization — all with full Scikit-learn compatibility.
 
 ---
 
-## ✨ Features
+##  Features
 
-- ✅ Plug-and-play `Pipeline` and `ColumnTransformer` components  
-- ✅ Drop-in **feature generators** (dates, text, outliers, etc.)  
-- ✅ Advanced custom **transformers** and **meta-estimators**  
-- ✅ Support for **nested cross-validation** and custom scorers  
-- ✅ Compatible with `GridSearchCV` and `RandomizedSearchCV`  
-- ✅ Simple **model evaluation** wrappers with logging  
-- ✅ Utility functions for **feature selection**, **data cleaning**, and **split strategies**  
-- ✅ Modular design for **experimentation & reproducibility**  
-- ✅ Clean, tested, and production-grade Python code  
-- ✅ 100% compatible with Scikit-learn’s API & best practices  
+-  Plug-and-play `Pipeline` and `ColumnTransformer` components  
+-  Drop-in **feature generators** (dates, text, outliers, etc.)  
+-  Advanced custom **transformers** and **meta-estimators**  
+-  Support for **nested cross-validation** and custom scorers  
+-  Compatible with `GridSearchCV` and `RandomizedSearchCV`  
+-  Simple **model evaluation** wrappers with logging  
+-  Utility functions for **feature selection**, **data cleaning**, and **split strategies**  
+-  Modular design for **experimentation & reproducibility**  
+-  Clean, tested, and production-grade Python code  
+-  100% compatible with Scikit-learn’s API & best practices  
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### Requirements
 
@@ -62,7 +62,7 @@ pip install -e .
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```python
 from sklearn.pipeline import Pipeline
@@ -80,7 +80,7 @@ pipeline.fit(X_train, y_train)
 
 ---
 
-## 🧠 Modules & Components
+##  Modules & Components
 
 | Module          | Description                                                     |
 | --------------- | --------------------------------------------------------------- |
@@ -93,7 +93,7 @@ pipeline.fit(X_train, y_train)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 scikitelearn-collections/
@@ -110,31 +110,31 @@ scikitelearn-collections/
 
 ---
 
-## 🧪 Examples
+##  Examples
 
 Explore the [`examples/`](examples/) directory for practical Jupyter notebooks:
 
-* ✅ Binary classification with preprocessing
-* ✅ Regression with feature engineering
-* ✅ Outlier detection & removal
-* ✅ Cross-validation with custom scoring
-* ✅ Hyperparameter tuning with pipeline integration
+*  Binary classification with preprocessing
+*  Regression with feature engineering
+*  Outlier detection & removal
+*  Cross-validation with custom scoring
+*  Hyperparameter tuning with pipeline integration
 
 ---
 
-## ✅ Contributing
+##  Contributing
 
-We ❤️ contributions! To contribute:
+We  contributions! To contribute:
 
 1. Fork this repository
 2. Create a new branch: `git checkout -b feature/your-feature`
 3. Write clean, tested code
 4. Ensure all tests pass with `pytest`
-5. Submit a pull request 🚀
+5. Submit a pull request 
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 All modules include unit tests in the `tests/` directory. Run:
 
@@ -146,21 +146,21 @@ We use [Black](https://github.com/psf/black) for code formatting and expect all 
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
-* Built with ❤️ using [Scikit-learn](https://github.com/scikit-learn/scikit-learn)
+* Built with  using [Scikit-learn](https://github.com/scikit-learn/scikit-learn)
 * Inspired by real-world ML use-cases in research & production
 * Thanks to open-source contributors and community ideas
 
 ---
 
-## 📬 Contact
+##  Contact
 
 Have questions or suggestions?
 Open an [issue](https://github.com/your-username/scikitelearn-collections/issues) or start a discussion!
